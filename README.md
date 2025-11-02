@@ -128,3 +128,5 @@ MIP-correction/
 3. Apply flat field correction to ff6
 4. Compare with reference image (ff_corrected)
 5. Extract and compare histograms
+
+I got an LLM to generate this README file. 
